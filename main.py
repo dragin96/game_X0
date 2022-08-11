@@ -71,4 +71,6 @@ def game():
             print('Победила дружба')
             break
 
+
+# tmp
 game()
